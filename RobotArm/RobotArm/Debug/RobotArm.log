@@ -1,0 +1,7 @@
+﻿  RobotArm.cpp
+C:\Users\user\source\repos\RobotArm\RobotArm\RobotArm.cpp(16,13): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\RobotArm\RobotArm\RobotArm.cpp(24,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\RobotArm\RobotArm\RobotArm.cpp(26,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\RobotArm\RobotArm\RobotArm.cpp(26,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\RobotArm\RobotArm\RobotArm.cpp(27,13): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+  RobotArm.vcxproj -> C:\Users\user\source\repos\RobotArm\Debug\RobotArm.exe
