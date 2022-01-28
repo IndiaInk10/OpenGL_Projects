@@ -1,0 +1,12 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLut.vcxproj, PoundingDonut.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  drivingSimulation.cpp
+C:\Users\user\source\repos\OpenGL Practice\drivingSimulation.cpp(53,40): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\OpenGL Practice\drivingSimulation.cpp(53,22): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\OpenGL Practice\drivingSimulation.cpp(56,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\source\repos\OpenGL Practice\drivingSimulation.cpp(66,12): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\OpenGL Practice\drivingSimulation.cpp(73,12): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\OpenGL Practice\drivingSimulation.cpp(84,11): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\user\source\repos\OpenGL Practice\drivingSimulation.cpp(91,11): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\user\source\repos\OpenGL Practice\drivingSimulation.cpp(216,42): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\user\source\repos\OpenGL Practice\drivingSimulation.cpp(219,42): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+  OpenGL Practice.vcxproj -> C:\Users\user\source\repos\OpenGL Practice\Debug\OpenGL Practice.exe
